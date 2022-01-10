@@ -18,9 +18,4 @@ a, a:hover {
   color: unset;
 }
 
-header {
-    height: 60px;
-    background-color: var(--color-primary);
-    display: flex;
-    align-items: center;
-}
+
